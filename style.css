@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+    margin: none;
+    position: absolute;
+    translate: 0 -30vw;
+}
+button {
+    background-color: brown;
+    border: none;
+    padding: 2vw 5vw;
+    position: absolute;
+    font-size: 3vw;
+    left: -100%;
+    font-weight: bold;
+    translate: 21vw;
+}
+img {
+    position: absolute;
+    translate: -40vw 0vw;
+}
