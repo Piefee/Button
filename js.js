@@ -8,8 +8,8 @@ function move(){
   let btn = document.getElementById("btn");
   let pos = "";
   let index = 0;
-  btn.style.padding = (3 * (1 - (clicks*.6))) + "vw";
-  btn.style.fontSize = (3 * (1 - (clicks*.3))) + "vw";
+  btn.style.padding = (3 * (1 - (clicks*.4))) + "vw";
+  btn.style.fontSize = (3 * (1 - (clicks*.15))) + "vw";
   pos = (Math.random() * 70) - 10
   pos = pos + "vw ";
   pos = pos + ((Math.random() * 40) - 25)
